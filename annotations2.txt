@@ -1,0 +1,10 @@
+./positive/frog1.jpg 1 165 332 272 356
+./positive/frog2.jpg 1 181 330 214 269
+./positive/frog3.jpg 1 150 397 232 311
+./positive/frog4.jpg 1 203 433 241 302
+./positive/frog5.jpg 1 191 286 236 307
+./positive/frog6.jpg 1 158 302 254 302
+./positive/frog7.jpg 1 197 387 240 281
+./positive/frog8.jpg 1 172 349 205 262
+./positive/frog9.jpg 1 200 371 267 296
+./positive/frog10.jpg 1 110 289 292 316
